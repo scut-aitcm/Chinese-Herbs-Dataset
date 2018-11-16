@@ -1,2 +1,2 @@
-# Chinese_Herbs_Dataset
+# Chinese-Herbs-Dataset
 Dataset
