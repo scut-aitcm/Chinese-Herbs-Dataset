@@ -8,7 +8,7 @@ The Tiny-Chinese-Herbs Dataset (TCNH-98) including 51198 images are cropped from
 
 Here we exhibit two sample datasets of 20 classes, [Chinese-Herbs-98_Sample](./Chinese-Herbs-98_Sample/) and [Tiny-Chinese-Herbs-98_Sample](./Tiny-Chinese-Herbs-98_Sample/), and the folder name is **label name** of class.
 
-If you need the CNH-98 dataset for non-commercial use, please contact us, latter.
+If you need the CNH-98 dataset for non-commercial use, please contact us.
 ## Distribution
 
 The distribution of the number of Chinese herbs classes in the 8 categories (left) and images quantities between 98 classes (right) are shown : 
