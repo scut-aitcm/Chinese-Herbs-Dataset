@@ -1,5 +1,5 @@
 # Chinese-Herbs-Dataset
-![Examples of Main Categories in CNH-98 and their Corresponding Examples in TCNH-98. From left to right, the left examples in CNH-98 corresponds to the right in TCNH-98 from top to bottom.](/home/innse/桌面/Datasets/Chinese-Herbs-Dataset/imgs/exhibition.png)
+![Examples of Main Categories in CNH-98 and their Corresponding Examples in TCNH-98. From left to right, the left examples in CNH-98 corresponds to the right in TCNH-98 from top to bottom.](./imgs/exhibition.png)
 
 # Chinese Herbs Dataset (CNH-98)
 
