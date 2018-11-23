@@ -1,11 +1,10 @@
-# Chinese-Herbs-Dataset
-![Examples of Main Categories in CNH-98 and their Corresponding Examples in TCNH-98. From left to right, the left examples in CNH-98 corresponds to the right in TCNH-98 from top to bottom.](./imgs/exhibition.png)
+# Chinese Herbs Dataset
 
-# Chinese Herbs Dataset (CNH-98)
+![Examples of Main Categories in CNH-98 and their Corresponding Examples in TCNH-98. From left to right, the left examples in CNH-98 corresponds to the right in TCNH-98 from top to bottom.](./imgs/exhibition.png)
 
 The Chinese-Herbs Dataset (CNH-98) is a collection of 9184 images of 98 classes, which can be divided into 8 categories including Fruits & Seeds, Rhizome, Flowers, Bark, Thallphyte, Whole Herbs, Leaves, Resin, whose examples (left) are shown in the above figure.  
 
-The Tiny-Chinese-Herbs Dataset (TCNH-98) including 51198 images are cropped from CNH-98 dataset with the size of $32 \times 32$ and we ensure that there is no overlapping. From the exhibition in the above figure (right), we can see that although examples in TCNH-98 are just local parts, each example in TCNH-98 almost contains one herb with integrated shape at least, thanks to repeatability of examples in CNH-98.
+The Tiny-Chinese-Herbs Dataset (TCNH-98) including 51198 images are cropped from CNH-98 dataset with the size of $32 \times 32​$ and we ensure that there is no overlapping. From the exhibition in the above figure (right), we can see that although examples in TCNH-98 are just local parts, each example in TCNH-98 almost contains one herb with integrated shape at least, thanks to repeatability of examples in CNH-98.
 
 Here we exhibit two sample datasets of 20 classes, [Chinese-Herbs-98_Sample](./Chinese-Herbs-98_Sample/) and [Chinese-Herbs-98_Sample](./Chinese-Herbs-98_Sample/), and the folder name is **label name** of class.
 
